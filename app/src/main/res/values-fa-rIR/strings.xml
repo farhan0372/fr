@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لیست کارها</string>
+    <string name="task_title">عنوان هشدار</string>
+    <string name="to_do">لیست هشدارها</string>
+    <string name="task_subtitle">جزییات هشدار</string>
+    <string name="category">دسته بندی</string>
+    <string name="date">تاریخ</string>
+    <string name="time">ساعت</string>
+    <string name="write_title_here">عنوان هشدار</string>
+    <string name="note">جزییات هشدار</string>
+    <string name="make_a_note_here">جزییات</string>
+    <string name="set_reminder_date_and_time">تنظیم تاریخ و زمان</string>
+    <string name="set_time">زمان</string>
+    <string name="save">ذخیره هشدار</string>
+    <string name="set_date">تاریخ</string>
+    <string name="title">عنوان هشدار</string>
+    <string name="new_task">ایجاد هشدار جدید</string>
+    <string name="Personal">شخصی</string>
+    <string name="Business">کاری</string>
+    <string name="Shopping">خرید</string>
+    <string name="BirthDay">تولد</string>
+    <string name="Reminder">هشدار</string>
+    <string name="save_reminder">ذخیره</string>
+    <string name="no_reminders_set_yet">هنوز هشداری تنظیم نشده است!</string>
+</resources>

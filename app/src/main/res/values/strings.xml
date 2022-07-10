@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="task_title">Task Title</string>
+    <string name="to_do">To do list</string>
+    <string name="task_subtitle">Task Subtitle</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="write_title_here">Write Title Here</string>
+    <string name="note">Note</string>
+    <string name="make_a_note_here">Make a note here</string>
+    <string name="set_reminder_date_and_time">Set reminder date and time</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="title">Title</string>
+    <string name="Personal">Personal</string>
+    <string name="Business">Business</string>
+    <string name="Shopping">Shopping</string>
+    <string name="BirthDay">B\'Day</string>
+    <string name="Reminder">Reminder</string>
+    <string name="save_reminder">save reminder</string>
+    <string name="no_reminders_set_yet">no reminders set yet!</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6700EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#050505</color>
+    <item name="gray" type="color">#E4E4E4</item>
+    <item name="green" type="color">#3E9D85</item>
+    <color name="mainBackgroundJti">#F9F9F9</color>
+    <item name="blue" type="color">#1565C0</item>
+
+</resources>
